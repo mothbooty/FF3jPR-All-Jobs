@@ -19,3 +19,9 @@ Place the folder into "\FINAL FANTASY III PR\FINAL FANTASY III_Data\StreamingAss
 Map_30011_3\sc_e_0008_1.json
 
 master\weapons.csv
+
+
+
+# A Small Note:
+
+Thank you to PJ (TheSuperSNES) for indirectly getting us back into rooting through a game's innards to make funny things again, we've missed doing things like this.
