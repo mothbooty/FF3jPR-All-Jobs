@@ -10,7 +10,7 @@ Ideally there will be two versions of this mod. One which has basic gear (your s
 
 Installation:
 
-Place the folder into "\FINAL FANTASY III PR\FINAL FANTASY III_Data\StreamingAssets\Magicite\" after installing BepinEX, and Magicite. Making a quicksave before touching the wind crystal to ensure things are functioning properly is suggested, but not required.
+Place the folder into "\FINAL FANTASY III PR\FINAL FANTASY III_Data\StreamingAssets\Magicite\" after installing [BepinEX](https://github.com/BepInEx/BepInEx/releases/download/v6.0.0-pre.2/BepInEx-Unity.IL2CPP-win-x64-6.0.0-pre.2.zip), and [Magicite](https://github.com/Silvris/Magicite/releases/tag/v2.2.0). Making a quicksave before touching the wind crystal to ensure things are functioning properly is suggested, but not required.
 
 --
 
