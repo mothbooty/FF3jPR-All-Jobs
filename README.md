@@ -10,6 +10,9 @@ Ideally there will be two versions of this mod. One which has basic gear (your s
 
 # Installation:
 
+**IMPORTANT NOTE:** 
+**Please run the game at least once after installing BepInEX** ***before*** **installing our mod, or magicite.**
+
 Place the "Job Unlock - Basic Gear" folder into "\FINAL FANTASY III PR\FINAL FANTASY III_Data\StreamingAssets\Magicite\" (The Magicite Folder will need to be created if it doesn't exist yet) after placing [BepinEX](https://github.com/BepInEx/BepInEx/releases/download/v6.0.0-pre.2/BepInEx-Unity.IL2CPP-win-x64-6.0.0-pre.2.zip), and [Magicite](https://github.com/Silvris/Magicite/releases/tag/v2.2.0) into the root FF3j Folder (ex: steamapps\common\FINAL FANTASY III PR\). Making a quicksave before touching the wind crystal to ensure things are functioning properly is suggested, but not required.
 
 
